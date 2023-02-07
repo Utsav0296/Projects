@@ -1,0 +1,495 @@
+/* SectionA Starts */
+
+
+
+.logo{
+    height: 40px;
+    width: 40px;   
+}  
+.logo-title{
+    font-weight: bolder;
+    font-size: 20px !important;
+    margin-left: 10px;
+}
+.nav-title{
+    font-size: 20px;
+}
+.right{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+}
+.nav-right{
+    color: black !important;
+    text-decoration: none !important;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 8px;
+}
+.get-btn{
+    padding: 10px 20px 10px 20px !important;
+    font-size: 15px !important;
+}
+.head-main{
+    height: fit-content;
+    width: 100%;
+    background-color:  #1e1919;
+}
+.heading h1{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left:350px ;
+    margin-right:350px;
+    font-weight: 600;
+}
+.headp{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-left:320px ;
+    margin-right:320px;
+}
+.head-btn{
+    color:black;
+    background-color: blueviolet;
+    padding: 20px 30px 20px 30px;
+    font-size: 18px;
+    margin-left:640px;
+    margin-top: 20px;
+}
+.head-img{
+    height: 500px;
+    width: 700px;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.head-btitle{
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    margin-top: 55px;
+    font-weight: 400;
+}
+.emoji{
+    color: white;
+    font-size: 35px ;
+    margin-top: 50px;
+}
+.dtitle{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.disc{
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.head-bot{
+    margin-left: 150px !important;
+    margin-right: 150px !important;
+}
+
+
+/* SectionA Ends  */
+
+
+/* SectionB starts */
+
+
+.sub-head{
+        width:100%;
+        height: 1030px;
+        background-color: #f7f5f2;
+}
+.sub-headtitle{
+    font-size: 50px ;
+    padding-top: 70px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.sub-one{
+    margin-top: 80px !important;
+    margin-left: 150px !important;
+    margin-right: 130px !important;
+}
+ .icon{
+    color: blueviolet;
+    font-size: 30px;
+}
+.sub-oneT{
+    font-size: 20px;
+    margin-top: 25px;
+    font-weight: 600;
+}
+.sub-oned{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.sub-twod{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.sub-threed{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.sub-fourd{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.sub-bt{
+   
+    color: black;
+}
+.arrow-bt{
+    border: 0;
+    margin-left: 130px;
+}
+
+.sub-two{
+    margin-top: 80px !important;
+    margin-left: 150px !important;
+    margin-right: 130px !important;
+}
+.sub-two .sub-oned{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 22px;
+}
+.sub-two .sub-twod{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.sub-bottitle{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+}
+.sub-botdisc{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+
+/* SectionB ends */
+
+/* SectionC start */
+
+.left-acc{
+    margin-top: 20px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+.acc-main{
+    margin-right: 0 !important;
+}
+.acc-img{
+   /* width: fit-content !important; */
+   margin-top: 20px !important; 
+}
+.acc-t{
+    font-size: 17px !important ;
+    font-weight: 600;
+    padding: 25px !important;
+}
+.acc-bt a{
+    color: black !important;
+}
+
+/* SectionC end */
+
+
+/* SectionD starts */
+
+.sec-d{
+    width:100%;
+    height: 1650px;
+    background-color: #f7f5f2;
+}
+
+.Secd-heading{
+    font-size: 45px;
+    padding-top: 70px;
+}
+
+.secd-box{
+    margin-top: 100px;
+    display: flex;
+    width: 75%;
+    margin-left: 12.5%;
+    z-index: 1;
+}
+
+.secd-left{
+    width: 50%;
+    border-right: 0.1px solid black ;
+}
+
+.secd-right{
+    width: 50%;
+  
+}
+
+.d-leftimg{
+    height: 250px;
+    width: 550px;  
+   
+}
+
+.d-rightimg{
+    height: 250px;
+    width: 550px;
+}
+
+.d-lefttitle{
+    font-size: 40px;
+    margin-left: 20px;
+}
+.d-leftdisc{
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.d-leftbtn{
+    width: 510px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 60px;
+    color: white;
+    background-color: blueviolet;
+    margin-bottom: 30px;
+}
+
+.btntext{
+    font-size: 18px;    
+}
+
+.arrow{
+    border: 0;
+    color: white;
+    background-color: blueviolet;
+    margin-left: 280px;
+    font-size: 18px;
+}
+.d-contant{
+    background-color: white;
+}
+.d-rightbtn{
+    width: 510px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 35px;
+    color: white;
+    background-color: blueviolet;
+    margin-bottom: 30px;
+}
+
+.secd-botheading{
+    margin-top: 70px;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.secd-link{
+    color: black;
+    margin-left: 590px;
+    font-size: 18px;
+}
+
+.secd-one{
+    margin-top: 80px !important;
+    margin-left: 150px !important;
+    margin-right: 130px !important;
+}
+
+.Secd-icons img{
+    height: 50px;
+    width: 50px;
+}
+
+.secd-two{
+    margin-top: 80px !important;
+    margin-left: 150px !important;
+    margin-right: 130px !important;
+}
+
+/* SectionD ends */
+
+/* SectionE starts */
+
+.secE{
+    width: 100%;
+    height: 1070px;
+    background-color: #1E1919;
+}
+.sece-heading{
+    font-size: 45px;
+    color: white;
+    padding-top: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.sece-link a{
+    color: white;
+    font-size: 20px;
+}
+
+.sece-link{
+    margin-top: 20px;
+}
+.myslide{
+    height: 580px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    padding-top: 80px;
+    width: 1200px;
+    display: flex;
+   
+}
+.myslide-left img{
+    height: 500px;
+    width: 600px;
+}
+.myslide-right{
+    background-color: #9b0032;
+}
+.mslide-dis{
+    color: white;
+    padding: 10px 25px 30px 25px;
+    font-size: 30px;
+    line-height: 1.1;
+}
+.mslide-link a{
+    color: white;
+    font-size: 20px;
+    padding: 0px 0px 10px 25px;
+}
+.mslide-foot{
+    color: white;
+    padding: 230px 25px 10px 25px;
+    font-size: 18px;
+}
+.sece-foot{
+    color: white;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+.sece-btn{
+    background-color: blueviolet;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px 20px 20px 20px;
+    margin-left: 220px;
+}
+.sece-bbtn{
+    background-color: blueviolet;
+    border: 0;
+    margin-left: 120px;
+}
+
+/* SectionE ends */
+
+
+/* Footer start */
+
+.Foot{
+    height: 700px;
+    width: 100%;
+    background-color: #000000;
+}
+
+.foottitle{
+    color: white;
+    font-size: 22px;
+    margin-bottom:30px ;
+}
+
+.foothead{
+    padding: 100px 20px 20px 150px;
+    display: flex;
+}
+
+.footsec{
+    color: white;
+    margin-bottom:13px ;
+}
+
+.firstfoot{
+    margin-right: 100px;
+}
+
+.Secondfoot{
+    margin-right: 100px;
+}
+
+.Thirdfoot{
+    margin-right: 100px;
+}
+
+.fourthfoot{
+    margin-right: 100px;
+}
+
+.footbtn{
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+.tr{
+    color: white;
+    background-color: #000000;
+    font-size: 25px;
+}
+
+.fb{
+    color: white;
+    background-color: #000000;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.yt{
+    color: white;
+    background-color: #000000;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.footline{
+    color: white;
+    width: 132px;
+    margin-left: 145px;
+    margin-top: 30px;
+}
+
+.lng{
+    margin-left: 145px;
+    border: 0;
+    background-color: #000000;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.grt{
+    margin-left: 15px;
+}
+
+/* Footer end */
